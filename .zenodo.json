@@ -1,0 +1,53 @@
+{
+  "upload_type": "software",
+  "access_right": "open",
+  "title": "Capability-as-Infrastructure: Software on Demand",
+  "version": "v0.2.0",
+  "creators": [
+    {
+      "name": "Shatny, Michael",
+      "orcid": "0009-0006-2011-3258"
+    }
+  ],
+  "description": "Capability-as-Infrastructure (CaI) proposes that the durable unit of a software system is no longer the application but the declared capability, together with the data, history, decisions and authority it operates on. Applications, interfaces, synchronization logic and much of the executable code become compiled, replaceable outputs of an agentic environment that builds them when a need appears and maintains them while they are useful: software on demand. Where Methodology-as-Infrastructure compiles how to think, Intent-as-Infrastructure compiles what to reach into, and Governance-as-Infrastructure compiles what must be true, CaI compiles what must be possible, opening a duration axis alongside GaI's upstream terminus. Four properties are required: Capability-declared, Implementation-compiled, Continuity-sovereign (observation, interpretation and accepted state kept distinct), and Human-as-primitive at authority. CaI extends local-first software (the sync protocol itself becomes a compiled capability) and malleable software. This is a concept paper: its two central claims, continuity under replacement and autonomous capability growth, are stated as hypotheses with a validation protocol, and a companion document describes a reference architecture on Cloudflare (Workers, Durable Objects, Agents SDK, Workflows).",
+  "license": "MIT",
+  "keywords": [
+    "capability-as-infrastructure",
+    "software-on-demand",
+    "agentic-systems",
+    "local-first-software",
+    "malleable-software",
+    "continuity",
+    "human-in-the-loop",
+    "semantic-intent",
+    "intent-as-infrastructure",
+    "governance-as-infrastructure"
+  ],
+  "notes": "If you use this work, please cite it using the concept DOI 10.5281/zenodo.23438908, which always resolves to the latest version.",
+  "related_identifiers": [
+    {
+      "relation": "continues",
+      "identifier": "10.5281/zenodo.20681522",
+      "scheme": "doi",
+      "resource_type": "software"
+    },
+    {
+      "relation": "references",
+      "identifier": "10.5281/zenodo.21010922",
+      "scheme": "doi",
+      "resource_type": "software"
+    },
+    {
+      "relation": "references",
+      "identifier": "10.5281/zenodo.18946630",
+      "scheme": "doi",
+      "resource_type": "software"
+    },
+    {
+      "relation": "references",
+      "identifier": "10.5281/zenodo.20938777",
+      "scheme": "doi",
+      "resource_type": "software"
+    }
+  ]
+}
