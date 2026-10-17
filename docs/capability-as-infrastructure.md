@@ -1,7 +1,7 @@
 # Capability-as-Infrastructure: Software on Demand
 
 **Author:** Michael Shatny ([ORCID: 0009-0006-2011-3258](https://orcid.org/0009-0006-2011-3258))
-**DOI:** *(concept DOI assigned on first release)*
+**DOI:** [10.5281/zenodo.23438908](https://doi.org/10.5281/zenodo.23438908) (concept DOI — always resolves to the latest version)
 **License:** MIT
 **Status:** Concept paper, v0.1. It contains no empirical case study; it defines a validation protocol (§5).
 

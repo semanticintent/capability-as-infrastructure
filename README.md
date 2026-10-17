@@ -1,6 +1,7 @@
 # Capability-as-Infrastructure: Software on Demand
 
-<!-- DOI badge: add the concept ("all versions") DOI after the first Zenodo release -->
+<!-- DOI: concept ("all versions") DOI — always resolves to the latest release -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23438908.svg)](https://doi.org/10.5281/zenodo.23438908)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--2011--3258-brightgreen?logo=orcid)](https://orcid.org/0009-0006-2011-3258)
 
 **Author:** Michael Shatny ([ORCID](https://orcid.org/0009-0006-2011-3258))
