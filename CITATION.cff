@@ -1,0 +1,116 @@
+cff-version: 1.2.0
+title: "Capability-as-Infrastructure: Software on Demand"
+message: "If you use this work, please cite it using the metadata from this file."
+type: software
+authors:
+  - family-names: Shatny
+    given-names: Michael
+    orcid: "https://orcid.org/0009-0006-2011-3258"
+repository-code: "https://github.com/semanticintent/capability-as-infrastructure"
+abstract: >-
+  Capability-as-Infrastructure (CaI) proposes that the durable unit of a software
+  system is no longer the application but the declared capability, together with
+  the data, history, decisions and authority it operates on. Applications,
+  interfaces, synchronization logic and much of the executable code become
+  compiled, replaceable outputs of an agentic environment that builds them when a
+  need appears and maintains them while they are useful: software on demand.
+  Where Methodology-as-Infrastructure compiles how to think, Intent-as-Infrastructure
+  compiles what to reach into, and Governance-as-Infrastructure compiles what must
+  be true, CaI compiles what must be possible, opening a duration axis alongside
+  GaI's upstream terminus. Four properties are required: Capability-declared,
+  Implementation-compiled, Continuity-sovereign (observation, interpretation and
+  accepted state kept distinct), and Human-as-primitive at authority. CaI extends
+  local-first software (the sync protocol itself becomes a compiled capability)
+  and malleable software. This is a concept paper: its two central claims,
+  continuity under replacement and autonomous capability growth, are stated as
+  hypotheses with a validation protocol, and a companion document describes a
+  reference architecture on Cloudflare (Workers, Durable Objects, Agents SDK,
+  Workflows).
+keywords:
+  - capability-as-infrastructure
+  - software-on-demand
+  - agentic-systems
+  - local-first-software
+  - malleable-software
+  - continuity
+  - human-in-the-loop
+  - semantic-intent
+  - intent-as-infrastructure
+  - governance-as-infrastructure
+license: MIT
+version: "0.1.0"
+date-released: "2026-10-17"
+references:
+  - type: software
+    title: "Intent-as-Infrastructure: When the Compiler Is Claude"
+    authors:
+      - family-names: Shatny
+        given-names: Michael
+    doi: "10.5281/zenodo.20681522"
+    url: "https://github.com/semanticintent/intent-as-infrastructure"
+  - type: software
+    title: "Governance-as-Infrastructure: From Audit to Runtime"
+    authors:
+      - family-names: Shatny
+        given-names: Michael
+    doi: "10.5281/zenodo.21010922"
+    url: "https://github.com/semanticintent/governance-as-infrastructure"
+  - type: software
+    title: "Methodology-as-Infrastructure: From Framework to Runtime"
+    authors:
+      - family-names: Shatny
+        given-names: Michael
+    doi: "10.5281/zenodo.18946630"
+    url: "https://github.com/semanticintent/methodology-as-infrastructure"
+  - type: software
+    title: "Governance-Driven Design (GDD): Formalizing Intent Before the Machine Runs"
+    authors:
+      - family-names: Shatny
+        given-names: Michael
+    doi: "10.5281/zenodo.20938777"
+    url: "https://github.com/semanticintent/governance-driven-design"
+  - type: software
+    title: "Semantic Intent as Governance Primitive for Agentic Systems"
+    authors:
+      - family-names: Shatny
+        given-names: Michael
+    doi: "10.5281/zenodo.20436088"
+  - type: conference-paper
+    title: "Local-first software: You own your data, in spite of the cloud"
+    authors:
+      - family-names: Kleppmann
+        given-names: Martin
+      - family-names: Wiggins
+        given-names: Adam
+      - family-names: van Hardenberg
+        given-names: Peter
+      - family-names: McGranaghan
+        given-names: Mark
+    year: 2019
+    doi: "10.1145/3359591.3359737"
+  - type: conference-paper
+    title: "Conflict-Free Replicated Data Types"
+    authors:
+      - family-names: Shapiro
+        given-names: Marc
+      - family-names: Preguiça
+        given-names: Nuno
+      - family-names: Baquero
+        given-names: Carlos
+      - family-names: Zawirski
+        given-names: Marek
+    year: 2011
+    doi: "10.1007/978-3-642-24550-3_29"
+  - type: article
+    title: "Malleable software: Restoring user agency in a world of locked-down apps"
+    authors:
+      - family-names: Litt
+        given-names: Geoffrey
+      - family-names: Horowitz
+        given-names: Josh
+      - family-names: van Hardenberg
+        given-names: Peter
+      - family-names: Matthews
+        given-names: Todd
+    year: 2025
+    url: "https://www.inkandswitch.com/essay/malleable-software/"
